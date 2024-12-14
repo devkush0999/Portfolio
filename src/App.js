@@ -32,6 +32,7 @@ function App() {
   console.log(openModal)
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
+      
       <Router >
         <Navbar />
         <Body>
