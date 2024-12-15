@@ -1,7 +1,7 @@
 {
   "name": "devesh-kumar-singh-portfolio",
   "version": "0.1.0",
-  "homepage": "devesh",
+  "homepage": "https://portfolio-gules-tau-20.vercel.app/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
