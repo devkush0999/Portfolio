@@ -314,6 +314,18 @@ export const projects = [
   //   github: "",
   //   webapp: "",
   // },
+  {
+      id: 4,
+      title: "crating-agency- website",
+      date: "2024",
+      description:"website create in Nextjs it main purpose showcase the company's services and products",
+      image:
+        "https://drive.google.com/file/d/1Jd4XROOm-EY-SkZe8O7zY7KqMuA-WBKq/view?usp=drivesdk",
+      tags: ["", "Tailwind", "css", "NextJs"],
+      category: "web app",
+      github: "private code not for showcase",
+      webapp: "https://creative-agency-ui-next-js-kappa.vercel.app/",
+    },
   
   {
     id: 6,
