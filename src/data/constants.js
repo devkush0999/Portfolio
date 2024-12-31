@@ -326,6 +326,18 @@ export const projects = [
       github: "private code not for showcase",
       webapp: "https://creative-agency-ui-next-js-kappa.vercel.app/",
     },
+    {
+      id: 4,
+      title: "Education-Website-Using-ReactJS",
+      date: "2024",
+      description:"website create in reactjsjs it main purpose showcase the Education services and products",
+      image:
+        "",
+      tags: ["Reactjs", "Tailwind", "css", "json"],
+      category: "web app",
+      github: "private code not for showcase",
+      webapp: "https://education-website-using-react-js-devkushs-projects.vercel.app/",
+    },
   
   {
     id: 6,
